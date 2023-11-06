@@ -1,4 +1,4 @@
-![image](https://github.com/vipe14/Crypto_Tracker/assets/93276091/2b5a5e59-b156-460a-b259-249905a4ae2c)# Crypto_Tracker
+# Crypto_Tracker
 
 # Output:
 
